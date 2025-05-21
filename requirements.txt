@@ -5,3 +5,4 @@ seaborn>=0.11.0
 scipy>=1.7.0
 streamlit>=1.12.0
 jupyter
+plotly>=5.14.1
